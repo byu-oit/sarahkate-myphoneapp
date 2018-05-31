@@ -25,6 +25,7 @@ software:
       swagger_urls:
     microservice: true # optional
     technologies_used: # optional
+      - NodeJS
     standard_change_template:
     stages:
       development:
